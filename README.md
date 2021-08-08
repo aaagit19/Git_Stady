@@ -1,0 +1,2 @@
+hogefuga
+# Git_Stady
